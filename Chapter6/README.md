@@ -1,0 +1,28 @@
+![](../images/artemis.png)
+Chapter 0: Development Environment Setup
+=====
+
+## Content
+
+### [Why Linux?](#why-linux)
+> Brief explanation on why you should consider learning how to use Linux
+### [Hypervisor Intallation](#hypervisor-installation)
+> Choosing and installing a hypervisor
+### [Linux Installation](#linux-installation)
+> Finding and installing linux
+### [Resources](#resources)
+> List of resources for when things inevitably go wrong
+
+-----
+
+### Why Linux?
+
+
+
+### Hypervisor Intallation
+
+### Linux Installation
+
+### Resources
+
+![](../images/floridatech.png)
