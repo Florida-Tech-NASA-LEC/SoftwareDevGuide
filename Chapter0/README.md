@@ -64,6 +64,6 @@ These are some of the common issues I've run into over the years of creating vir
 
 If you have problems during installation and the developer's website is unable to provide an answer, please join the discord channel for FITSEC, Florida Tech's competitive hacking team. Most of the members in the channel will be able to help you with setting up a virtual machine. Ain invite link to the discord channel is provided under "getting involved" on FITSEC's website.
 
-[FITSEC's website](fitsec.github.io)
+[FITSEC's website](http://fitsec.github.io)
 
 ![](../images/floridatech.png)
