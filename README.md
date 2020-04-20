@@ -5,7 +5,7 @@ This guide is designed to help bridge the gap between academia and practical app
 
 ## Contents
 
-### Chapter 0:	Development Environment Setup
+### Chapter 0:	[Development Environment Setup](Chapter0/README.md)
 > Step by step guide on how to set up an Ubuntu Virtual Machine
 ### Chapter 1:	Basic Linux
 > Common commands you may encounter while developing in Linux
