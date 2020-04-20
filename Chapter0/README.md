@@ -4,7 +4,7 @@ Chapter 0: Development Environment Setup
 
 ## Content
 
-### Why Linux?
+[Why Linux?](### Why Linux?)
 > Brief explanation on why you should consider learning how to use Linux
 ### Hypervisor Intallation
 > Choosing and installing a hypervisor
@@ -15,4 +15,25 @@ Chapter 0: Development Environment Setup
 
 -----
 
-### Test
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+### Why Linux?
