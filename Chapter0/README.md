@@ -4,23 +4,23 @@ Chapter 0: Development Environment Setup
 
 ## Content
 
-<h2><a href=#why-linux>Why Linux?</a></h2>
+[Section 0: Why Linux?](#why-linux)
 
 > Brief explanation on why you should consider learning how to use Linux
 
-[Hypervisor Intallation](#hypervisor-installation)
+[Section 1: Hypervisor Intallation](#hypervisor-installation)
 
 > Choosing and installing a hypervisor
 
-[Linux Installation](#linux-installation)
+[Section 2: Linux Installation](#linux-installation)
 
 > Finding and installing linux
 
-[Common Issues](#common-issues)
+[Section 3: Common Issues](#common-issues)
 
 > Having trouble? Look here!
 
-[Resources](#resources)
+[Section 4: Resources](#resources)
 
 > List of resources for when things inevitably go wrong
 
