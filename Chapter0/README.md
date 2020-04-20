@@ -1,3 +1,4 @@
+![](../images/artemis.png)
 Chapter 0: Development Environment Setup
 =====
 
