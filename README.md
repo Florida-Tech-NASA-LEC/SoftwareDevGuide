@@ -13,6 +13,9 @@ This guide is designed to help bridge the gap between academia and practical app
 > How to write applications in Python
 ### Chapter 3:	Designing Graphical User Interfaces
 > Several approaches to designing and implementing GUIs in Python
-### Chapter 4:	Networks 
+### Chapter 4:	Networks
+> Basic networking and how to write servers and clients in Python 
 ### Chapter 5:	Serial Communication
+> How to interact with peripheral devices via serial bus
 ### Chapter 6:	Debugging
+> Short chapter on interpresing errors and what to do with them
