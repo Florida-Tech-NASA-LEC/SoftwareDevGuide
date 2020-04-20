@@ -6,8 +6,13 @@ This guide is designed to help bridge the gap between academia and practical app
 ## Contents
 
 ### Chapter 0:	Development Environment Setup
+> Step by step guide on how to set up an Ubuntu Virtual Machine
 ### Chapter 1:	Basic Linux
+> Common commands you may encounter while developing in Linux
 ### Chapter 2:	Basic Python
-### Chapter 3:	Networks
-### Chapter 4:	Serial Communication
-### Chapter 5:	Debugging
+> How to write applications in Python
+### Chapter 3:	Designing Graphical User Interfaces
+> Several approaches to designing and implementing GUIs in Python
+### Chapter 4:	Networks 
+### Chapter 5:	Serial Communication
+### Chapter 6:	Debugging
