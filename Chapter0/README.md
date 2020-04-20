@@ -4,7 +4,7 @@ Chapter 0: Development Environment Setup
 
 ## Content
 
-<h2>[Why Linux?](#why-linux)</h2>
+<h2><a href=#why-linux>Why Linux?</a></h2>
 
 > Brief explanation on why you should consider learning how to use Linux
 
