@@ -1,3 +1,4 @@
+![](images/artemis.png)
 Software Developer's guide for NASA RMC
 =====
 
@@ -19,3 +20,5 @@ This guide is designed to help bridge the gap between academia and practical app
 > How to interact with peripheral devices via serial bus
 ### Chapter 6:	[Debugging](Chapter6/README.md)
 > Short chapter on interpresing errors and what to do with them
+
+![](images/floridatech.png)
