@@ -4,31 +4,31 @@ Chapter 0: Development Environment Setup
 
 ## Content
 
-[Why Linux?](#why-linux)
------
+<h2>[Why Linux?](#why-linux)</h2>
+
 > Brief explanation on why you should consider learning how to use Linux
 
 [Hypervisor Intallation](#hypervisor-installation)
------
+
 > Choosing and installing a hypervisor
 
 [Linux Installation](#linux-installation)
------
+
 > Finding and installing linux
 
 [Common Issues](#common-issues)
------
+
 > Having trouble? Look here!
 
 [Resources](#resources)
------
+
 > List of resources for when things inevitably go wrong
 
 -----
 
 ### Why Linux?
 
-Linux has many open source and free distrobutions available. The command line interface and how tools are installed and maintained make Linux operating systems ideally suited for software development. Additionally, your project may require use of Linux. Additonally, if you set up your development environment following this guide, not only can I help troubleshoot issues you may be having, but you will also be able to follow along with the rest of this guide.
+Linux has many open source and free distributions available. The command line interface and how tools are installed and maintained make Linux operating systems ideally suited for software development. Additionally, your project may require use of Linux. Additonally, if you set up your development environment following this guide, not only can I help troubleshoot issues you may be having, but you will also be able to follow along with the rest of this guide.
 
 ### Hypervisor Intallation
 
