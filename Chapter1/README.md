@@ -217,7 +217,7 @@ Whew! I know this is a lot of information, but I know you're more than capable o
 
 * Create a new file inside of the NASA_ROBOTICS directory named "failure.py"
 * Edit the file to inslude the following text:
-	> #!/usr/bin/python
+	> #!/usr/bin/python<br>
 	> print "It's not an option"
 * Make the script executable
 * Run the script
