@@ -33,7 +33,9 @@ To open a terminal, the program we use to interact with the command line, we cli
 
 ### Command Resources
 
-There are many terminal commands
+There are many terminal commands, and each command has its own subset of special use cases. How can we possibly know all of the special commands to use? This is where man pages come in. Man pages are the manual on how to use a specific command. Additionally, some commands may have a "-h", or "--help" flag that helps us to figure out what kinds of input the command can handle.
+
+![ls manpage](images/manpage.png)
 
 ### Directories
 
@@ -50,6 +52,24 @@ and the parent directory (the directory directly above your current directory) i
 Below are some of the most common commands for working with directories.
 
 * ls	- lists the contents of a directory
+* cd	- change directory
+* pwd	- print working directory
+* mkdir	- make directory
+* rmdir	- remove directory
+
+#### ls
+The list command prints all of the contents of the directory specified. If you type just "ls", the contents of the directory in which you currently reside are returned. If you specify a directory path, you can list contents in a directory you are not currently residing in. Additionally, there are options that you can use with ls to print additional information about each file in a directory. Here are some of the most common:
+
+* ls -l		- list long; provide size, ownership, and creation date time stamp
+* -a 		- list all; print all file and directories, including hidden
+
+![](images/ls.png)
+
+#### cd
+The cd command is useful for changing your current working dirctory. This command is pretty simple. There are some options for cd, but they aren't used very often. One thing that I'd like to mention here is there are two different ways to look at paths that you could cd to: absolute paths, and relative paths.
+
+* Absolute Paths	- Full path name from root. i.e. /home/nasauser/Documents/filename.txt
+* Relative Paths	- Can be referenced with path shortcuts such as ".." or "~". i.e. ~/Documents/filename.txt
 
 
 ### Files
