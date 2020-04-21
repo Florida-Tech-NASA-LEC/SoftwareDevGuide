@@ -25,11 +25,11 @@ Linux command line interface is very powerful. It seems complicated, but once yo
 
 To open a terminal, the program we use to interact with the command line, we click the dots at the bottom of the screen, and type "terminal".
 
-[](images/pic1.png)
+![](images/pic1.png)
 
 -----
 
-[](images/pic2.png)
+![](images/pic2.png)
 
 ### Command Resources
 
