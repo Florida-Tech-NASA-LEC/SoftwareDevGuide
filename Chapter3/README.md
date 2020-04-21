@@ -1,28 +1,25 @@
 ![](../images/artemis.png)
-Chapter 0: Development Environment Setup
+Chapter 1: Basic Linux
 =====
 
 ## Content
 
-### [Why Linux?](#why-linux)
-> Brief explanation on why you should consider learning how to use Linux
-### [Hypervisor Intallation](#hypervisor-installation)
-> Choosing and installing a hypervisor
-### [Linux Installation](#linux-installation)
-> Finding and installing linux
-### [Resources](#resources)
-> List of resources for when things inevitably go wrong
+### [Section 0:]()
+> Placeholder
+### [Section 1:]()
+> Placeholder
+### [Section 2:]()
+> Placeholder
+### [Section 3:]()
+> Placeholder
+### [Section 4:]()
+> Placeholder
 
 -----
 
-### Why Linux?
+### Section 0 Header
 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis finibus elit eu commodo mattis. Pellentesque pulvinar libero id erat congue hendrerit. In ut ultrices metus. Aliquam venenatis, nisl eu accumsan lacinia, odio lorem malesuada purus, quis euismod risus eros a dui. Proin feugiat aliquam urna eu vulputate. Nam ultricies hendrerit enim, eget rhoncus risus ultricies vel. Etiam vitae lacus id magna convallis ornare et at nisl. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aenean non fringilla ligula. Nullam cursus tempor nibh, nec feugiat augue tempus eget. Cras ornare sapien quis dignissim facilisis. Maecenas vel erat ut nisl faucibus pulvinar. Sed varius ipsum erat, ac feugiat lorem dapibus aliquam. 
 
-
-### Hypervisor Intallation
-
-### Linux Installation
-
-### Resources
 
 ![](../images/floridatech.png)
