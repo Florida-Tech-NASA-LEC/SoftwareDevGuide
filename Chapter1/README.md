@@ -111,9 +111,19 @@ Great! You've make it this far. How is your transition from a world of Windows t
 
 ### Files
 
-In Linux, files are a bit different from those in Windows. First, file extensions are not really standardized. File type comes from file header bytes most commonly referred to as "magic bytes". Below is a hex dump of the Artemis png aat the top of this page.
+In Linux, files are a bit different from those in Windows. First, file extensions are not really standardized. File type comes from file header bytes most commonly referred to as "magic bytes". Below is a hex dump of the Artemis png at the top of this page.
 
 ![](images/hexdump.png)
+
+The first four bytes of the image show as 8950 4e47, which as we can see to the right are the hexidecimal characters for the PNG "magic bytes". All files in Linux have something similar to this if the file is not saw ASCII encoded (human readable) format. So why am I mentioning all of this? Well, as new Linux users its important for you to know that file extensions can lie to you in Linux. For example consider what would happen if we changed the file extension of artemis.png to artemis.pdf?
+
+![](images/fileChange.png)
+
+Now what if we try to open it like its a PDF document?
+
+![](images/openPDF.png)
+
+As we can see, just because a file has an extension doesnt mean it actually is.
 
 ### Text
 
