@@ -111,6 +111,10 @@ Great! You've make it this far. How is your transition from a world of Windows t
 
 ### Files
 
+In Linux, files are a bit different from those in Windows. First, file extensions are not really standardized. File type comes from file header bytes most commonly referred to as "magic bytes". Below is a hex dump of the Artemis png aat the top of this page.
+
+![](images/hexdump.png)
+
 ### Text
 
 ### System
