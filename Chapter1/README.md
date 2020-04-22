@@ -18,10 +18,10 @@ Chapter 1: Basic Linux
 > Commands dedicated to working with the system
 
 ## Excercises
-### [Exercise 0: Directory Exercises](#directory-exercises)
-### [Exercise 1: File Exercises](#file-exercises)
-### [Exercise 2: Text Exercises](#text-exercises)
-### [Exercise 3: System Exercises](#system-exercises)
+### [Exercise 0: Directory Exercises](DIRECTORIES.md/#directory-exercises)
+### [Exercise 1: File Exercises](FILES.md/#file-exercises)
+### [Exercise 2: Text Exercises](TEXT.md/#text-exercises)
+### [Exercise 3: System Exercises](SYSTEM.md/#system-exercises)
 -----
 
 ### Why Command Line?
