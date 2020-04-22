@@ -1,5 +1,5 @@
-![](images/artemis.png)
+![](../images/artemis.png)
 
 
 
-![](images/floridatech.png)
+![](../images/floridatech.png)
