@@ -1,5 +1,5 @@
 ![](../images/artemis.png)
-Section 5: System Commands
+Section 4: Text Commands
 =====
 
 ## Content
