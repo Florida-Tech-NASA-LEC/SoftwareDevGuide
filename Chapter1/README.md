@@ -14,7 +14,7 @@ Chapter 1: Basic Linux
 > Commands dedicated to working with files
 ### [Section 4: Text](#text)
 > Commands dedicated to working with text
-### [Section 5: System](#system)
+### [Section 5: System](SYSTEM.md)
 > Commands dedicated to working with the system
 
 ## Excercises
