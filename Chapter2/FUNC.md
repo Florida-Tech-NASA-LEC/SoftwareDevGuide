@@ -72,5 +72,8 @@ As we can see, the first time the recursive function call hits a base case is wh
 
 ### What you should have learned:
 
+* How and why to write functions
+* How recursion works
+* How to scope variables with respect to functions
 
 ![](../images/floridatech.png)
