@@ -45,7 +45,7 @@ Which is useful when you're looking for the path to a program. For instance, per
 
 > which python
 
-#### System Exercises
+### System Exercises
 
 * Find the path to python
 * Find the name of your computer
@@ -53,7 +53,7 @@ Which is useful when you're looking for the path to a program. For instance, per
 	* Bonus points for if you can isolate your IP address with grep and cut
 * Find you username
 
-#### What you should have learned:
+### What you should have learned:
 
 * ***How to find the path to a program***
 * ***How to find the hostname of a device***

@@ -42,14 +42,14 @@ Dictionaries are unordered, so we cannot access keys or values by index. We must
 >
 > bmercer@xyz.net
 
-#### Exercises
+### Exercises
 
 * Create a dictionary database of your team structure.
 	* You should be able to access team member names (values) by keys
 
 [Solution](scripts/dict.py)
 
-#### What you should have learned:
+### What you should have learned:
 
 * How to manage dictionaries
 

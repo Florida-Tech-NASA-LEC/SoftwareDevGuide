@@ -85,7 +85,7 @@ Tuples are very similar to lists, except they are immutable. This means the valu
 
 > myTuple = ("element 1","element 2","element 3")
 
-#### Exercises
+### Exercises
 
 * Create a program that takes the following user inputs:
 	* First name
@@ -99,7 +99,7 @@ Tuples are very similar to lists, except they are immutable. This means the valu
 
 [Solution](tuple.py)
 
-#### What you should have learned:
+### What you should have learned:
 
 * How to use lists.
 * How to use tuples.

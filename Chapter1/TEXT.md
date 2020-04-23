@@ -68,7 +68,7 @@ Now, if we want to write the IP address to a file, we can use the redirection op
 
 > ifconfig | grep 192 | cut -d " " -f 10
 
-#### Text Exercises
+### Text Exercises
 * Edit the script in your home directory to print another line
 	* The script should look like:
 	> #!/usr/bin/python
@@ -80,7 +80,7 @@ Now, if we want to write the IP address to a file, we can use the redirection op
 * Redirect the output to a file called "NASA.training"
 * Print the contents of "NASA.training" to the screen
 
-#### What you should have learned:
+### What you should have learned:
 
 * ***How to print the contents of a file***
 * ***How to redirect output***

@@ -114,7 +114,7 @@ The file utility allows us to check what a file actually is from the command lin
 
 As we can see by the example above, file helps us identify what the file is, even if it is acting like a Microsoft Word document.
 
-#### File Exercises
+### File Exercises
 Whew! I know this is a lot of information, but I know you're more than capable of getting this stuff down. Plus, you can brag to your friends about your new hacker skills.
 
 * Create a new file inside of the NASA_ROBOTICS directory named "failure.py"
@@ -129,7 +129,7 @@ Whew! I know this is a lot of information, but I know you're more than capable o
 * Navigate to your home directory
 * Remove the NASA_ROBOTICS directory and all of its contents recursively.
 
-#### What you should have learned:
+### What you should have learned:
 
 * ***How to create new files***
 * ***How to move and rename files***

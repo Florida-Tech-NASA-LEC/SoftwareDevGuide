@@ -56,7 +56,7 @@ Split is useful when you have several words in a string that you want to split i
 
 First, we split the newmsg string by a space. Next, we print the list created by the split and only select index 0, which is "Goodbye"
 
-#### Exercises
+### Exercises
 
 * Given the following string, replace every word "woodchuck" with "NASA"
 	* myString = "How much wood would a woodchuck chuck if a woodchuck could chuck wood?"
@@ -64,7 +64,7 @@ First, we split the newmsg string by a space. Next, we print the list created by
 
 [Solution](scripts/string.py)
 
-#### What you should have learned:
+### What you should have learned:
 
 * How to work with strings
 * How to replace certain characters or words in a string

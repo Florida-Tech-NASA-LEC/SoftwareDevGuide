@@ -138,7 +138,7 @@ for food in foods:
         print "Yuck, " + food + "."
 ```
 
-#### Exercises
+### Exercises
 
 * Create a program that has a list of subteams for your team
 * Loop over all of the subteams, printing the name of the team + " is cool!"
@@ -146,7 +146,7 @@ for food in foods:
 
 [Solution](scripts/loop.py)
 
-#### What you should have learned:
+### What you should have learned:
 
 * How to create conditions to dictate control flow
 * How to iterate over items or number of loops

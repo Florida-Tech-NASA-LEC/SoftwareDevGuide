@@ -56,7 +56,7 @@ The make directory command is useful for just what it sounds like. Whenever you 
 
 Remove directory is fairly simple as well, but it is important to note that rmdir will only work on empty directories. If you have files inside of a directory and want to remove all of them at the same time, there is a command that I will share with you further down the page.
 
-#### Directory Exercises
+### Directory Exercises
 
 Great! You've make it this far. How is your transition from a world of Windows to the hacker-esque world of Linux terminal treating you thus far? Please follow these exercises. They may seem trivial, but when you're trying to get work done you're not going to want to come back here to look up how to create a directory and potentially lose your train of thought!
 
@@ -72,7 +72,7 @@ Great! You've make it this far. How is your transition from a world of Windows t
  	* Note: You should only be removing the scripts directory, not NASA_ROBOTICS
  * List the contents of NASA_ROBOTICS to confirm scripts was removed
 
-#### What you should have learned:
+### What you should have learned:
 * ***How to create and remove directories***
 * ***How to change directories***
 * ***How to find which directory you are currently in***

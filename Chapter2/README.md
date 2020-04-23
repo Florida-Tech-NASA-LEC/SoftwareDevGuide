@@ -81,7 +81,7 @@ Notice how I've assigned varying types of data to the variable? Thats because th
 
 From here, you can input commands and play with things all without having to commit to creating a script. Many times when I'm trying to rapidly test some small piece of code, I do so inside of the interpreter, and then when I know it works I transfer it to a script.
 
-#### Variable Exercises
+### Variable Exercises
 
 * Create a new script called "circumference.py"
 * Create a variable named "pi" with the value of 3.14159
@@ -92,7 +92,7 @@ From here, you can input commands and play with things all without having to com
 * Run the script
 	* python circumference.py
 
-#### What you should have learned:
+### What you should have learned:
 
 * How to use variables in Python
 * How to get user input from the console
