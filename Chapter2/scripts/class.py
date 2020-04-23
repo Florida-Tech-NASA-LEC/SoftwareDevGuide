@@ -36,7 +36,7 @@ fido.bark()
 flipper = Dolphin()
 flipper.setHabitat("Ocean")
 flipper.sonar()
-flipper.getHabitat()
+print flipper.getHabitat()
 
 spike = Echidna()
 spike.setLiveBirth(False)
