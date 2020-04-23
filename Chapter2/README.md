@@ -1,25 +1,82 @@
 ![](../images/artemis.png)
-Chapter 1: Basic Linux
+Chapter 1: Basic Python
 =====
 
 ## Content
 
-### [Section 0:]()
-> Placeholder
-### [Section 1:]()
-> Placeholder
-### [Section 2:]()
-> Placeholder
-### [Section 3:]()
-> Placeholder
-### [Section 4:]()
-> Placeholder
-
+### [Section 0: Why Python?](#why-python)
+> "But I already know matlab!"
+### [Section 1: Variables](#variables)
+> How to work with variables
+### [Section 2: Lists and Tuples](LISTS.md)
+> Pythonic arrays
+### [Section 3: Strings](STRINGS.md)
+> Way easier than c-srings!
+### [Section 4: Dictionaries](DICTS.md)
+> Key-value pairs
+### [Section 5: Conditionals and Loops](LOOPS.md)
+> If else and loops
+### [Section 6: Functions](FUNC.md)
+> How to abstract your code into modules
+### [Section 7: Classes and Object Oriented Programming](CLASS.md)
+> Creating classes and why
+### [Exceptions](TRYCATCH.md)
+> How to gracefully handle failure
+### [Libraries](LIBRARIES.md)
+> How in import and install libraries
 -----
 
-### Section 0 Header
+### Why Python?
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis finibus elit eu commodo mattis. Pellentesque pulvinar libero id erat congue hendrerit. In ut ultrices metus. Aliquam venenatis, nisl eu accumsan lacinia, odio lorem malesuada purus, quis euismod risus eros a dui. Proin feugiat aliquam urna eu vulputate. Nam ultricies hendrerit enim, eget rhoncus risus ultricies vel. Etiam vitae lacus id magna convallis ornare et at nisl. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aenean non fringilla ligula. Nullam cursus tempor nibh, nec feugiat augue tempus eget. Cras ornare sapien quis dignissim facilisis. Maecenas vel erat ut nisl faucibus pulvinar. Sed varius ipsum erat, ac feugiat lorem dapibus aliquam. 
+I know, the last thing you need on your plate right now is to have to learn a new programming language. But hear me out! I have had zero formal training in Python. I have had nearly 3 years of C++ coursework, and I have developed in C extensively. I know Matlab quite well, too. I would STILL recommend Python for this application and here is why:
 
+1. No memory management
+	There are no pointers in Python. You don't need to worry about writing into memory that you shouldn't.
+2. Easy syntax
+	Python is much more readable than C++. For instance, compare these two examples:
+	C++ Example
+	'''c++
+	#include <iostream>
+	#include <cstring>
+
+	int main()
+	{
+		char* name = "Joshua";
+		for(int i = 0; i < strlen(name); i++)
+		{
+			std::cout << name[i] << std::endl;
+		}
+	}
+	'''
+	Python example
+	'''python
+	name = "Joshua"
+
+	for char in name:
+    		print char
+	'''
+	As you can see, the python code is much easier to read AND write.
+3. Extensive libraries
+	Python has libraries for everything. From working with databases, to networking...it even has a spotify library if you want to have your robot play your favorite tunes! Best part is there is a package installer called pip that makes installing most libraries a breeze. If you've ever tried to extend the functionality of C++ by adding libraries, you'll quickly realize Python does this a whole lot easier.
+4. If you already know a language, learning Python is easy!
+5. Its already installed in Linux! We don't have to even worry about installing it.
+
+### Variables
+
+Variables are a way to store values for use later. All of you at this point should be familiar with variables, so I won't bore you with the basics. The way that Python initializes variables is very simple.
+
+> x = 0
+
+This statement assigned x with the value of 0. No need to any type declaration. The best part is I can even do this with Python:
+
+> x = 1
+> x = "Cow"
+> x = 3.14159
+
+Notice how I've assigned varying types of data to the variable? Thats because the variable changes what the type is based on what value is assigned during initialization. Very cool! If you'd like to try this, you can open up the Python interpreter by typing "python" into a terminal.
+
+![](images/interpreter.python)
+
+From here, you can input commands and play with things all without having to commit to creating a script. Many times when I'm trying to rapidly test some small piece of code, I do so inside of the interpreter, and then when I know it works I transfer it to a script.
 
 ![](../images/floridatech.png)
