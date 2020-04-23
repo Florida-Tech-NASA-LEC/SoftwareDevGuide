@@ -5,7 +5,7 @@ Section 8: Exceptions
 ## Content
 
 ### [Subsection 0: Exceptions](#exceptions)
-> Basic decision making
+> How to recover gacefully from errors
 ### [Subsection 1: Exercises](#exercises)
 > Exercises to hone your skills
 
