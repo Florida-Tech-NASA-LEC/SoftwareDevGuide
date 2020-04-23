@@ -24,12 +24,16 @@ myGrades = [92, 96, 88, 97]
 print avg(myGrades)
 ```
 
-#### Exercises
+#### Scoping
+
+#### Recursion
+
+### Exercises
 
 
 [Solution](loop.py)
 
-#### What you should have learned:
+### What you should have learned:
 
 
 ![](../images/floridatech.png)
