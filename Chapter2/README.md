@@ -88,9 +88,12 @@ From here, you can input commands and play with things all without having to com
 * Use the "raw_input" function to get input from the user
 	* r = raw_input("Enter the radius of the circle: ")
 * Calculate and print the circumference of the circle
-	* C = 2*pi*r
+	* C = 2*pi*int(r)
+	* Note the casting r to int. raw_input returns a string!
 * Run the script
 	* python circumference.py
+
+[Solution](scripts/variable.py)
 
 ### What you should have learned:
 
