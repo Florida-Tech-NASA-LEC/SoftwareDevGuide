@@ -34,7 +34,7 @@ I know, the last thing you need on your plate right now is to have to learn a ne
 	* There are no pointers in Python. You don't need to worry about writing into memory that you shouldn't.
 2. Easy syntax
 	* Python is much more readable than C++. For instance, compare these two examples:
-	C++ Example
+	* C++ Example
 	```c++
 	#include <iostream>
 	#include <cstring>
@@ -48,7 +48,7 @@ I know, the last thing you need on your plate right now is to have to learn a ne
 		}
 	}
 	```
-	Python example
+	* Python example
 	```python
 	name = "Joshua"
 
