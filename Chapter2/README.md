@@ -31,9 +31,9 @@ Chapter 1: Basic Python
 I know, the last thing you need on your plate right now is to have to learn a new programming language. But hear me out! I have had zero formal training in Python. I have had nearly 3 years of C++ coursework, and I have developed in C extensively. I know Matlab quite well, too. I would STILL recommend Python for this application and here is why:
 
 1. No memory management
-	There are no pointers in Python. You don't need to worry about writing into memory that you shouldn't.
+	* There are no pointers in Python. You don't need to worry about writing into memory that you shouldn't.
 2. Easy syntax
-	Python is much more readable than C++. For instance, compare these two examples:
+	* Python is much more readable than C++. For instance, compare these two examples:
 	C++ Example
 	```c++
 	#include <iostream>
@@ -57,7 +57,7 @@ I know, the last thing you need on your plate right now is to have to learn a ne
 	```
 	As you can see, the python code is much easier to read AND write.
 3. Extensive libraries
-	Python has libraries for everything. From working with databases, to networking...it even has a spotify library if you want to have your robot play your favorite tunes! Best part is there is a package installer called pip that makes installing most libraries a breeze. If you've ever tried to extend the functionality of C++ by adding libraries, you'll quickly realize Python does this a whole lot easier.
+	* Python has libraries for everything. From working with databases, to networking...it even has a spotify library if you want to have your robot play your favorite tunes! Best part is there is a package installer called pip that makes installing most libraries a breeze. If you've ever tried to extend the functionality of C++ by adding libraries, you'll quickly realize Python does this a whole lot easier.
 4. If you already know a language, learning Python is easy!
 5. Its already installed in Linux! We don't have to even worry about installing it.
 
