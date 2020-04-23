@@ -97,6 +97,8 @@ Tuples are very similar to lists, except they are immutable. This means the valu
 * We really aren't interested in our name. Lets focus on whats REALLY important: the icecream
 	* Slice and print just the icecream flavor from the list
 
+[Solution](tuple.py)
+
 #### What you should have learned:
 
 * How to use lists.
