@@ -69,7 +69,7 @@ In the example above we can see a practical use for needing to know the length o
 
 Many times you'll need to add elements to a list. The way we can add elements is to use the append function.
 
-> myList = []
+> myList = []<br>
 > myList.append("item")
 > print myList
 > 
