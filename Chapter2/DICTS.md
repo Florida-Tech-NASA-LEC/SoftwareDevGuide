@@ -23,16 +23,18 @@ We can access the email by the user's name.
 
 Dictionaries can be used to create a quick database. We can even nest dictionaries within dictionaries. Consider:
 
-> database = {<br>
-> 	"Bob": {<br>
->		"email": "bmercer@xyz.net",<br>
->		"phone": "1(321)425-0393"<br>
->	},<br>
->	"Enrique": {<br>
->		"email": egalaras@xyz.net",<br>
->		"phone": "1(321)591-4615"<br>
->	}<br>
-> }<br>
+```python
+ database = {
+ 	"Bob": {
+		"email": "bmercer@xyz.net",
+		"phone": "1(321)425-0393"
+	},
+	"Enrique": {
+		"email": egalaras@xyz.net",
+		"phone": "1(321)591-4615"
+	}
+ }
+```
 
 Dictionaries are unordered, so we cannot access keys or values by index. We must use the key to access the value.
 
