@@ -77,7 +77,7 @@ This statement assigned x with the value of 0. No need to any type declaration. 
 
 Notice how I've assigned varying types of data to the variable? Thats because the variable changes what the type is based on what value is assigned during initialization. Very cool! If you'd like to try this, you can open up the Python interpreter by typing "python" into a terminal.
 
-![](images/interpreter.python)
+![](images/interpreter.png)
 
 From here, you can input commands and play with things all without having to commit to creating a script. Many times when I'm trying to rapidly test some small piece of code, I do so inside of the interpreter, and then when I know it works I transfer it to a script.
 
