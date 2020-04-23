@@ -9,7 +9,7 @@ Section 4: Dictionaries
 ### [Subsection 1: Exercises](#exercises)
 > Exercises to hone your skills
 
-### Dictionaties
+### Dictionaries
 
 Dictionaries are a datatype that provide the developer with the ability to access a value given a key. Each entry in a dictionary is called a key-value pair. FOr example, consider a dictionary of names and email addresses.
 
