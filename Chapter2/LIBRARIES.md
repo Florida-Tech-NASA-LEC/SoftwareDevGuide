@@ -5,10 +5,9 @@ Section 9: Libraries
 ## Content
 
 ### [Subsection 0: Libraries](#libraries)
-> Basic decision making
+> Importing extra functionality
 ### [Subsection 1: Working with pip](#working-with-pip)
-### [Subsection 2: Exercises](#exercises)
-> Exercises to hone your skills
+> Installing extra functionality
 
 ### Libraries
 
