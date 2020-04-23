@@ -35,7 +35,7 @@ I know, the last thing you need on your plate right now is to have to learn a ne
 2. Easy syntax
 	Python is much more readable than C++. For instance, compare these two examples:
 	C++ Example
-	'''c++
+	```c++
 	#include <iostream>
 	#include <cstring>
 
@@ -47,14 +47,14 @@ I know, the last thing you need on your plate right now is to have to learn a ne
 			std::cout << name[i] << std::endl;
 		}
 	}
-	'''
+	```
 	Python example
-	'''python
+	```python
 	name = "Joshua"
 
 	for char in name:
     		print char
-	'''
+	```
 	As you can see, the python code is much easier to read AND write.
 3. Extensive libraries
 	Python has libraries for everything. From working with databases, to networking...it even has a spotify library if you want to have your robot play your favorite tunes! Best part is there is a package installer called pip that makes installing most libraries a breeze. If you've ever tried to extend the functionality of C++ by adding libraries, you'll quickly realize Python does this a whole lot easier.
