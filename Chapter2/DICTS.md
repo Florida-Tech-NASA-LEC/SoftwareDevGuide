@@ -47,7 +47,7 @@ Dictionaries are unordered, so we cannot access keys or values by index. We must
 * Create a dictionary database of your team structure.
 	* You should be able to access team member names (values) by keys
 
-[Solution](dict.py)
+[Solution](scripts/dict.py)
 
 #### What you should have learned:
 

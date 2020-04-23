@@ -56,8 +56,8 @@ I know, the last thing you need on your plate right now is to have to learn a ne
     		print char
 	```
 	As you can see, the python code is much easier to read AND write.
-	* [C++ Code Example](name.cpp)
-	* [Python Code Example](name.py)
+	* [C++ Code Example](scripts/name.cpp)
+	* [Python Code Example](scripts/name.py)
 3. Extensive libraries
 	* Python has libraries for everything. From working with databases, to networking...it even has a spotify library if you want to have your robot play your favorite tunes! Best part is there is a package installer called pip that makes installing most libraries a breeze. If you've ever tried to extend the functionality of C++ by adding libraries, you'll quickly realize Python does this a whole lot easier.
 4. If you already know a language, learning Python is easy!

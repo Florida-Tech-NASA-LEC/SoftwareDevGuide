@@ -144,7 +144,7 @@ for food in foods:
 * Loop over all of the subteams, printing the name of the team + " is cool!"
 * If "software" subteam is encountered, print " is VERY cool!"
 
-[Solution](loop.py)
+[Solution](scripts/loop.py)
 
 #### What you should have learned:
 

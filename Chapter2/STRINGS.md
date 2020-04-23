@@ -62,7 +62,7 @@ First, we split the newmsg string by a space. Next, we print the list created by
 	* myString = "How much wood would a woodchuck chuck if a woodchuck could chuck wood?"
 * Now, split the string and join all instances of "NASA" together with a space between each instance
 
-[Solution](string.py)
+[Solution](scripts/string.py)
 
 #### What you should have learned:
 

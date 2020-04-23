@@ -67,7 +67,7 @@ print testSum / len(testScores)
 ```
 In the example above we can see a practical use for needing to know the length of a list.
 
-[Example Average Script](average.py)
+[Example Average Script](scripts/average.py)
 
 ##### append
 
