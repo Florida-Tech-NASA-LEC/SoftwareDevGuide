@@ -15,10 +15,6 @@ Classes are useful for encapsulating a set of operations into a neat package cal
 
 ```python
 class Vehicle:
-	color = ""
-	year = 0
-	make = ""
-	model = ""
 	running = False
 	
 	def turnOn(self):
@@ -45,10 +41,6 @@ Setters and getters are functions that allow us to access variables that are sco
 
 ```python
 class Vehicle:
-	color = ""
-	year = 0
-	make = ""
-	model = ""
 	running = False
 	
 	def turnOn(self):
@@ -123,10 +115,6 @@ So when you were creating a vehicle object, wasn't it annoying to have to use al
 
 ```python
 class Vehicle:
-        color = ""
-        year = 0
-        make = ""
-        model = ""
 
 	def __init__(self, make, model, year, color):
 		self.make = make
@@ -148,8 +136,8 @@ class Vehicle:
                 return self.model
 
 camero = Vehicle("Chevrolet", "Camero", 2013, "Black")
-print camero.getMake
-print camero.getModel
+print camero.getMake()
+print camero.getModel()
 ```
 
 Using the __init__ function, we can create a constructor that takes care of initializing the instantiated object. 
