@@ -27,6 +27,10 @@ One cool thing about lists in Python is the ability to have mixed data types. Ta
 
 > a = [1, 3.14, "hello", 'B']
 
+We can also change the elements of a list by index. This is called mutability. When a variable type is said to be mutable, it means the value inside of that variable can be changed.
+
+> a[0] = "listsAreMutable"
+
 ##### Slicing
 
 Python has the ability to slice lists to quickly limit the list to a subset of values. Say for instance you had a list of data that represented a student's coursework and you wanted to truncate the list and only want to see the courses the student is taking.
@@ -45,7 +49,7 @@ There are several very useful methods we can use with Python. Here are all of th
 
 The len() function returns the length of the list of which it is invoked. 
 
-> myList = ['a','b','c']
+> myList = ['a','b','c']<br>
 > len(myList)
 >
 > 3
@@ -70,22 +74,33 @@ In the example above we can see a practical use for needing to know the length o
 Many times you'll need to add elements to a list. The way we can add elements is to use the append function.
 
 > myList = []<br>
-> myList.append("item")
+> myList.append("item")<br>
 > print myList
 > 
 > ["item"]
 
 #### Tuples
 
+Tuples are very similar to lists, except they are immutable. This means the values of each index cannot be changed. *So why do I need to know about tuples if I can just use a list and  have more control?* Good question. The reason I bring this up is because when we get into socket level programming in the network section, you will have to deal with tuples. Its important to know that with tuples, you cannot change the values. Also, note that you can slice and index tuples JUST like lists. They're basically the same thing, except they can't be changed!
+
+> myTuple = ("element 1","element 2","element 3")
 
 #### Exercises
 
+* Create a program that takes the following user inputs:
+	* First name
+	* Last name
+	* Favorite ice cream flavor
+* Place each of these strings into a tuple (because these will never change!)
+* Try to change the value of one of the elements
+* Now, change the script to input all strings into a list
+* We really aren't interested in our name. Lets focus on whats REALLY important: the icecream
+	* Slice and print just the icecream flavor from the list
+
 #### What you should have learned:
 
-* ***How to create new files***
-* ***How to move and rename files***
-* ***How to remove files***
-* ***How to identify file types***
-* ***How to change permission and ownership of files***
+* How to use lists.
+* How to use tuples.
+* How to slice both!
 
 ![](../images/floridatech.png)
